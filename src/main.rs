@@ -1,5 +1,5 @@
 fn main() {
     println!("Hello, world!");
     println!("Oleksii god!");
-    println!("Timur lox!");
+    println!("Timur ne lox!");
 }
